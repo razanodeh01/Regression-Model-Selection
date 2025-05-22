@@ -67,7 +67,7 @@ Used **Grid Search** to:
 - Ensure balance between accuracy and complexity.
 
 
-## 👥 Students
+## 👥 Authors
 - [**Razan Abdelrahman**](https://github.com/razanodeh01)  
 - [**Hidaya Mustafa**](https://github.com/HidayaMustafa)
 
